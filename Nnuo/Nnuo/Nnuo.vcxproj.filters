@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="A+B.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组用于标记.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SSL.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多组输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="01串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1133 求1到n的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="棱形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="杨辉三角.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1012 字符移动.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1240 首字母大写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1151 成绩排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1010 奇前偶后大小排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1254 字符串排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1248 整数奇偶排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1388 查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1307 组队刷题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1180 最简真分数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分数化简.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最小公倍数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1375 素数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1017 幂次方.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1501 括号匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1382 哈夫曼树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1264 二叉树2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1109 二叉树建立和遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
